@@ -43,3 +43,4 @@ JSON Body Sample:
     }
 }
 ```
+Artillery load test can be viewed [here](https://github.com/s3000-f/np1/blob/master/artillery_log.txt).
